@@ -1,3 +1,14 @@
 * {
   background-color: skyblue;
 }
+
+.formInputs {
+  display:flex;
+  /* flex-wrap: nowrap; */
+  /* justify-content: flex-start; */
+  flex-direction: column;
+}
+
+.formInputs label {
+  margin: 10px;
+}
